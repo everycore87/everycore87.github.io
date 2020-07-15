@@ -1,0 +1,90 @@
+.f-muli-1,
+.f-muli-2,
+.f-muli-3{
+   font-family: 'Muli';
+}
+
+.f-inter-1,
+.f-inter-2{
+   font-family: 'Inter';
+}
+
+.f-muli-1{
+   color: black !important;
+   font-size: 25px;
+   font-weight: bold;
+   margin: 0 70px 0 0;
+}
+
+.f-inter-2{
+   color: black !important;
+   font-size: 60px;
+   font-weight: 800;
+   /* margin: 0 20px 0 0; */
+}
+
+.f-muli-3{
+   font-size: 12px;
+   font-weight: bold;
+}
+
+.transform-icon{
+   transform: scale(0.6);
+}
+
+.transform-img{
+   transform: scale(0.6);
+}
+
+.back-img{
+   transform: translateX();
+   z-index: -1;
+}
+
+body{
+   background-color: #F7F7F7;
+   padding: 0;
+   margin: 0;
+   box-sizing: border-box;
+}
+
+/* navbar */
+.navbar-nav .active{
+   /* border-bottom: 3px solid rgb(0, 0, 0); */
+}
+
+.nav-text a{
+
+}
+
+.nav-item a{
+}
+
+/* main */
+.main h1:nth-child(1),
+.main h1:nth-child(2){
+}
+
+.description{
+   margin: 200px 0 0 0;
+}
+
+/* pay */
+.harga{
+   margin: 0 0 0 0;
+}
+
+.main a,
+.f-24{
+}
+
+.nav-item{
+   /* background-color: blanchedalmond; */
+}
+
+.main .col-lg-7{
+   /* background-color: blueviolet; */
+}
+.main .col-lg-5{
+   /* background-color: rgb(158, 154, 161); */
+}
